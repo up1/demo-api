@@ -19,7 +19,7 @@
 							"        type: \"object\",",
 							"        properties: {",
 							"            id: {",
-							"                type: \"number\"",
+							"                type: \"string\"",
 							"            },",
 							"            name: {",
 							"                type: \"string\"",
